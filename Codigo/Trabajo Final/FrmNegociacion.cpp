@@ -1,0 +1,2 @@
+#include "FrmNegociacion.h"
+
